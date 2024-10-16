@@ -1,4 +1,3 @@
-# Waze
 
 # Maze Solver with Robot
 
